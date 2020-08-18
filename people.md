@@ -3,7 +3,7 @@ layout: page
 title: Lab Members
 ---
 
-{% include figure.html image="https://WangLiLab.github.io/picture/yangchunsha.png" caption="WangLi Lab in Amomum villosum planting base" position="center" %}
+{% include figure.html image="https://WangLiLab.github.io/picture/yangchunsha.jpg" caption="WangLi Lab in Amomum villosum planting base" position="center" %}
 
 
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/wangli.jpg" align="right"><font size="3"><b>Li Wang, principle investigator</b>: <br>
