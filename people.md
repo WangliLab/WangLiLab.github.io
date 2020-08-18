@@ -6,7 +6,7 @@ title: Lab Members
 {% include figure.html image="https://WangLiLab.github.io/picture/yangchunsha.png" caption="WangLi Lab in Amomum villosum planting base" position="center" %}
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/wangli.jpg" align="right"><font size="3"><b>PI, principle investigator</b>: <br>
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/wangli.jpg" align="right"><font size="3"><b>Li Wang, principle investigator</b>: <br>
 She graduated as a bachelor in biotechnology from Wuhan University in 2006 and received her Ph.D. in Plant Evolution from the Institute of Botany, Chinese Academy of Sciences in 2011. She subsequently worked as a postdoctoral researcher at Texas Tech University, Iowa State University and the University of California at Davis. As the first author or co-author, she has published a total of 8 SCI papers, including Genome Biology, New Phytologist.</font></p>
 
 
