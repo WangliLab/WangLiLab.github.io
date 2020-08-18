@@ -23,7 +23,7 @@ plugins:
 url: 'https://wanglilab.github.io/'
 baseurl: ''
 title: 'WangLi Lab'
-description: 'Evolutionary genomics of maize and its wild relatives'
+description: 'Evolutionary genomics of crops and Chinese herbs'
 permalink: pretty
 logo: 
 
@@ -35,8 +35,8 @@ paginate_path: news/page:num
 navigation_header:
 - title: Home
   url: /
-- title: PI
-  url: /PI/
+- title: Research
+  url: /research/
 - title: Publications
   url: /publications/
 - title: People
@@ -45,8 +45,8 @@ navigation_header:
   url: /news/
 - title: Teaching
   url: /teaching/
-- title: C.A.M.P.
-  url: /camp/
+- title: journalClub
+  url: /journal/
 # Footer nav
 navigation_footer:
 - title: Back to top
@@ -56,7 +56,7 @@ navigation_footer:
 collections:
   posts:
     output: true
-    description: "<b>Notable events in the Hufford Lab</b>"
+    description: "<b>Notable events in the Wang Lab</b>"
     feature_text: |
       ## <span style="color:white">News</span>
-    feature_image: "https://github.com/WangliLab/WangLiLab.github.io/blob/master/picture/Homepage.png"
+    feature_image: "https://WangLiLab.github.io/picture/Homepage.png"
