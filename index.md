@@ -11,3 +11,4 @@ Contact:<br>
 广东省深圳市大鹏新区鹏飞路7号，中国农业科学院农业基因组研究所<br>
 email: wangli03@caas.cn<br>
 phone: 13560761317<br>
+<a href="https://twitter.com/mbhufford?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @mbhufford</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
