@@ -2,7 +2,7 @@
 layout: page
 feature_image: "https://github.com/WangliLab/WangLiLab.github.io/blob/master/picture/Homepage.png"
 feature_text: |
-  ## <span style="color:white">Publications</span>
+  ## <span style="color:white">PI</span>
 ---
 
 <B><font size = "5" color="black">PI</font></b><br />
