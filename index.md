@@ -1,11 +1,11 @@
 ---
 title: Welcome to the WangLi Lab!
 layout: page
-feature_image: "https://github.com/WangliLab/WangLiLab.github.io/blob/master/picture/Home%20page%20picture.png"
+feature_image: "https://WangLiLab.github.io/picture/Homepage.png"
 ---
 
 
-<b><font size = "6" color="maroon">Evolutionary genomics of maize and its wild relatives</font></b>
+<b><font size = "6" color="maroon">Evolutionary genomics of crops and Chinese herbs</font></b>
 
 Contact:<br>
 广东省深圳市大鹏新区鹏飞路7号，中国农业科学院农业基因组研究所<br>
