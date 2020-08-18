@@ -1,7 +1,7 @@
 ---
 title: Welcome to the WangLi Lab!
 layout: page
-feature_image: "https://huffordlab.github.io/pictures/maize_genetics.jpg"
+feature_image: "https://github.com/WangliLab/WangLiLab.github.io/blob/master/picture/Home%20page%20picture.png"
 ---
 
 
