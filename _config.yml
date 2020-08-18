@@ -35,8 +35,8 @@ paginate_path: news/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Research
-  url: /research/
+- title: PI
+  url: /PI/
 - title: Publications
   url: /publications/
 - title: People
