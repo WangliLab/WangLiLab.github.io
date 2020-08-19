@@ -1,6 +1,5 @@
 ---
 layout: blog
-collectionpage: posts
 title: News
 feature_image: "https://WangLiLab.github.io/picture/malan1.jpg"
 ---
