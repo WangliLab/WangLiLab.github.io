@@ -45,8 +45,8 @@ navigation_header:
   url: /news/
 - title: Teaching
   url: /teaching/
-- title: journalClub
-  url: /journal/
+- title: Journal Club
+  url: /Journal Club/
 # Footer nav
 navigation_footer:
 - title: Back to top
