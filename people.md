@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Lab Members
+feature_image: "https://huffordlab.github.io/pictures/yangchunsha.jpg"
+feature_text: |
+  ## <span style="color:white">Lab Members</span>
 ---
 
-{% include figure.html image="https://WangLiLab.github.io/picture/yangchunsha.jpg" caption="WangLi Lab in Amomum villosum planting base" position="center" %}
 
 
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/wangli.jpg" align="right"><font size="3"><b>Li Wang, principle investigator</b>: <br>
@@ -28,7 +29,7 @@ Sherry-Xiaoyu joined the SUN YAT-SEN University as a Ph.D student in biomedical 
 Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degree in Biology and Medicine here, and previously earned a bachelor's degree in Bioengineering from Henan University of Traditional Chinese Medicine.She is interested in bioinformatics, molecular biology and evolutionary biology, and liked anything logical.Lego and running are her favorite pastime.</font></p>
 
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouweiwei.jpg" align="left"><font size="3"><b>Wei Zhou,Research Assistant</b>:<br>
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/zhouweiwei.png" align="left"><font size="3"><b>Wei Zhou,Research Assistant</b>:<br>
 She is a graduate of Applied Statistics， works in the Institute of natural language processing,helps the laboratory to establish the database of Pharmacopoeia. She is a cat slave and loves learning and living,good at math and programming.
 
 <br>
