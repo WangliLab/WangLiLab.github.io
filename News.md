@@ -16,7 +16,6 @@ Gangmei and nanbanlangen.</font></p>
 
 
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/lixiao.jpg" align="right"><font size="3"><b>Li Xiao, a senior researcher at the Institute of information technology of Peking University, made an academic report entitled "Application of advanced information technologies in genomic research".</b><br>
-The related research group of synthesis center and researcher Li Xiao carried out in-depth discussion on the application of natural language processing in the collation of traditional Chinese medicine books and records, genomic block chain and complex genome assembly. Researcher Li Xiao praised the development and scientific research achievements of our institute in recent years, and gave scientific and reasonable technical and research suggestions based on his own professional expertise.</font></p>
 
 
 
