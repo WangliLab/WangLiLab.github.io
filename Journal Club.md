@@ -9,6 +9,9 @@ This is a journal club where we end our week with some libations and erudite dis
 
 Papers by date they are discussed:
 
+<b>August 28th, 2020</b><br />
+Junzhong Shang1†, <i>et al.</i> 2020<br />
+ [PDF](PDF/lamei.pdf)The Genetic Basis of Morphological Diversity in Domesticated Goldfish</a>
 
 <b>August 19th, 2020</b><br />
 Tetsuo Kon <i>et al.</i> 2020<br />
