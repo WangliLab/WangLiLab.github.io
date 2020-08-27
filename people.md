@@ -22,10 +22,10 @@ Cheng graduated from Zhejiang University with his Ph.D degree in 2019, majored i
 <p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/chenxinlian.jpg" align="right"><font size="3"><b>Xinlian Chen, Guest Graduate Student</b>: <br>
 Xinlian joined the Li Wang lab as a Ph.D. student in August, 2020. She is interested in Chinese medicine resources like the identification of medicinal plants. She did research on plant DNA barcodes and chloroplast genome. Recently, she pays attention to biosynthetic pathway of active ingredients, hoping to get better biological traits. Xinlian’s additional interests include climbing, jogging and taking photos of plants.</font></p>
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/xiaoxiao.jpg" align="right"><font size="3"><b>Xiaoyu Han, Guest Graduate Student</b>: <br>
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/xiaoxiao.jpg" align="left"><font size="3"><b>Xiaoyu Han, Guest Graduate Student</b>: <br>
 Sherry-Xiaoyu joined the SUN YAT-SEN University as a Ph.D student in biomedical engineering in the Fall of 2019. Prior to this, she finished master degree in the University of Adelaide following worked as a viticulturist in Australia for two years. She did her undergraduate degree at the China Pharmaceutical University major in pharmacy. She’s interested in medicinal plants and biosynthetic pathway of medicinal ingredients in the Traditional Chinese Medicine. Sherry’s additional interests include hiking,swimming and playing the piano.</font></p>
 
-<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/jiaojiao.jpg" align="left"><font size="3"><b>Jiaojiao Ji, Graduate Student</b>: <br>
+<p style="line-height:1.2"><img src="https://WangLiLab.github.io/picture/jiaojiao.jpg" align="right"><font size="3"><b>Jiaojiao Ji, Graduate Student</b>: <br>
 Ji jiaojiao  joined Wang Li's team in July 2020.She will pursue a master's degree in Biology and Medicine here, and previously earned a bachelor's degree in Bioengineering from Henan University of Traditional Chinese Medicine.She is interested in bioinformatics, molecular biology and evolutionary biology, and liked anything logical.Lego and running are her favorite pastime.</font></p>
 
 
