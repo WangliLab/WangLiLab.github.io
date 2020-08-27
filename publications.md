@@ -39,12 +39,12 @@ Xianchun Zhang, Ran Wei, Hongmei Liu, Lijuan He, **Li Wang**, Gangming Zhang. 20
 ## 2010
 **Li Wang**, Xinping Qi, Qiaoping Xiang, Jochen Heinrichs, Harald Schneider, Xianchun Zhang. 2010.   <a href="http://d.wanfangdata.com.cn/periodical/c241c209ff0ba6729fc36c1d96faf180">Phylogeny of the paleotropical fern genus _Lepisorus_ (Polypodiaceae, Polypodiopsida) inferred from four chloroplast genome regions. </a>
 
- **Li Wang**, Zhiqiang Wu, Qiaoping Xiang, Jochen Heinrichs, Harald Schneider, Xianchun Zhang. 2010. <a href="https://doi.org/10.1101/114579">A molecular phylogeny and a revised classification of tribe Lepisoreae (Polypodiaceae) based on an analysis of four plastid DNA regions.  </a>
+ **Li Wang**, Zhiqiang Wu, Qiaoping Xiang, Jochen Heinrichs, Harald Schneider, Xianchun Zhang. 2010. <a href="http://d.wanfangdata.com.cn/periodical/8192554986292cb1bd8a666406db872d">A molecular phylogeny and a revised classification of tribe Lepisoreae (Polypodiaceae) based on an analysis of four plastid DNA regions.  </a>
 
 ## 2008
-Hongmei Liu, **Li Wang**, Hui Zeng, Xianchun Zhang. 2008. Advances in the studies of lycophytes and monilophytes with reference to systematic arrangement of families distributed in China. _Journal of Systematics and Evolution_ 46: 808-829. 
+Hongmei Liu, **Li Wang**, Hui Zeng, Xianchun Zhang. 2008. <a href="http://d.wanfangdata.com.cn/periodical/zwflxb200806002">Advances in the studies of lycophytes and monilophytes with reference to systematic arrangement of families distributed in China </a>
 
-Xianchun Zhang, **Li Wang**, Xinping Qi. 2008. Additions to the pteridophyte flora of Xizang (IV). _Newsletter of Himalayan Botany_ 41: 20-27. 
+Xianchun Zhang, **Li Wang**, Xinping Qi. 2008.Additions to the pteridophyte flora of Xizang (IV). Newsletter of Himalayan Botany 41: 20-27.
 
 ## 2007  
 **Li Wang**, Xianchun Zhang. 2007. Pteridophyta. in Zhenyu Li, Lei Shi (editors), Flora of Emei Mountain. Beijing Science and Technology Press, Beijing, pp. 153-224. 
