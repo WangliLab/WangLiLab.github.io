@@ -11,7 +11,8 @@ Papers by date they are discussed:
 
 <b>August 28th, 2020</b><br />
 Junzhong Shang1†, <i>et al.</i> 2020<br />
- [PDF](PDF/lamei.pdf)The Genetic Basis of Morphological Diversity in Domesticated Goldfish</a>
+<a href="https://doi.org/10.1186/s13059-020-02088-y">The chromosome-level wintersweet (Chimonanthus praecox) genome provides insights into floral scent biosynthesis and flowering in winter</a>
+
 
 <b>August 19th, 2020</b><br />
 Tetsuo Kon <i>et al.</i> 2020<br />
