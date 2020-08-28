@@ -1,7 +1,7 @@
 ---
 title: Welcome to the WangLi Lab!
 layout: page
-feature_image: "https://WangLiLab.github.io/picture/yumi1.png"
+feature_image: "https://WangLiLab.github.io/picture/yumi1.jpg"
 ---
 
 
