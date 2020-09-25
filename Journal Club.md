@@ -9,6 +9,16 @@ This is a journal club where we end our week with some libations and erudite dis
 
 Papers by date they are discussed:
 
+<b>September 25th, 2020</b><br />
+Whitehead Institute for Biomedical Research,
+Cambridge, Massachusetts<i>et al.</i> 2020<br />
+<a href="https://publons.com/publon/10.1002/ggn2.10022/">Climate change shapes the future evolution of plant
+metabolism</a>
+
+<b>September 18th, 2020</b><br />
+Christophe Duplais,1 <i>et al.</i> 2020<br />
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/32896488">Tracking the Origin and Evolution of Plant Metabolites</a>
+
 <b>September 9th, 2020</b><br />
 Prashanth Srinivasan & Christina D. Smolke <i>et al.</i> 2020<br />
 <a href="https://www.nature.com/articles/s41586-020-2650-9">Biosynthesis of medicinal tropane alkaloids in yeast</a>
