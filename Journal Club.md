@@ -14,6 +14,19 @@ Zi-Long Wanga,<i>et al.</i> 2020<br />
 <a href="https://www.pnas.org/content/suppl/2020/11/13/2012745117.DCSupplemental">Dissection of the general two-step di-C-glycosylation
 pathway for the biosynthesis of (iso)schaftosides in higher plants</a>
 
+<b>November 22th, 2020</b><br />
+Hong Wang,<i>et al.</i> 2020<br />
+<a href="https://www.frontiersin.org/articles/10.3389/fpls.2018.00846/full">An Integrative Volatile Terpenoid Profiling and Transcriptomics Analysis for Gene Mining and Functional Characterization of AvBPPS and AvPS Involved in the Monoterpenoid Biosynthesis in Amomum villosum</a>
+
+<b>November 15th, 2020</b><br />
+Philipp Le,<i>et al.</i> 2020<br />
+<a href="https://www.nature.com/articles/s41557-019-0378-7">Repurposing human kinase inhibitors to create an antibiotic active against drug-resistant Staphylococcus aureus, persisters and biofilms</a>
+
+<b>October 23th, 2020</b><br />
+Fu-Sheng Yang,<i>et al.</i> 2020<br />
+<a href="https://www.nature.com/articles/s41467-020-18771-4">Chromosome-level genome assembly of a parent
+species of widely cultivated azaleas</a>
+
 <b>September 25th, 2020</b><br />
 Whitehead Institute for Biomedical Research,
 Cambridge, Massachusetts<i>et al.</i> 2020<br />
