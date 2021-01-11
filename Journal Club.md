@@ -9,6 +9,11 @@ This is a journal club where we end our week with some libations and erudite dis
 
 Papers by date they are discussed:
 
+<b>January 8th, 2021</b><br />
+Zi-Long Wanga,<i>et al.</i> 2020<br />
+<a href="https://www.pnas.org/content/suppl/2020/11/13/2012745117.DCSupplemental">Dissection of the general two-step di-C-glycosylation
+pathway for the biosynthesis of (iso)schaftosides in higher plants</a>
+
 <b>September 25th, 2020</b><br />
 Whitehead Institute for Biomedical Research,
 Cambridge, Massachusetts<i>et al.</i> 2020<br />
@@ -16,7 +21,7 @@ Cambridge, Massachusetts<i>et al.</i> 2020<br />
 metabolism</a>
 
 <b>September 18th, 2020</b><br />
-Christophe Duplais,1 <i>et al.</i> 2020<br />
+Christophe Duplais, <i>et al.</i> 2020<br />
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/32896488">Tracking the Origin and Evolution of Plant Metabolites</a>
 
 <b>September 9th, 2020</b><br />
