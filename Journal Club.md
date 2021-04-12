@@ -9,6 +9,24 @@ This is a journal club where we end our week with some libations and erudite dis
 
 Papers by date they are discussed:
 
+
+
+<b>April 9th, 2021</b><br />
+Ruben Vanholme,<i>et al.</i> 2019<br />
+<a href="https://www.nature.com/articles/s41477-019-0510-0">COSY catalyses trans–cis isomerization and lactonization in the biosynthesis of coumarins</a>
+
+<b>March 26th, 2021</b><br />
+Baobao Wang,<i>et al.</i> 2020<br />
+<a href="https://doi.org/10.1038/s41588-020-0616-3">Genome-wide selection and genetic improvement during modern maize breeding</a>
+
+<b>March 19th, 2021</b><br />
+KunWang,<i>et al.</i> 2021<br />
+<a href="https://doi.org/10.1016/j.cell.2021.01.047">African lungfish genome sheds light on the vertebrate water-to-land transition</a>
+
+<b>March 19th, 2021</b><br />
+Rao Fu,<i>et al.</i> 2021<br />
+<a href="https://www.nature.com/articles/s41467-021-21853-6">Versatility in acyltransferase activity completes chicoric acid biosynthesis in purple coneflower</a>
+
 <b>January 8th, 2021</b><br />
 Zi-Long Wanga,<i>et al.</i> 2020<br />
 <a href="https://www.pnas.org/content/suppl/2020/11/13/2012745117.DCSupplemental">Dissection of the general two-step di-C-glycosylation
